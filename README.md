@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janhavi</h1>
 <h3 align="center">I’m studying Computer Science at Georgia Tech and have interests in Computer Vision, Human-Computer Interaction, and Software Development, with specialization threads in Intelligence and Media.</h3>
 
-- 👨‍💻 You can check out my projects & experiences at [janhavipurkar.com](janhavipurkar.com)
+- 👨‍💻 You can check out my projects & experiences at [janhavirpurkar.com](janhavirpurkar.com)
 
 - 📫 Reach me at **imjanhavipurkar@gmail.com**
 
