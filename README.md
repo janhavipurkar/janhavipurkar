@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Janhavi</h1>
-<h3 align="center">I’m studying Computer Science at Georgia Tech and have interests in Computer Vision, Human-Computer Interaction, and Software Development, with specialization threads in Intelligence and Media.</h3>
+<h1 align="center">Hey, I'm Janhavi!</h1>
+<h3 align="center">I’m studying Computer Science at Stanford and have interests in Computer Vision, Human-Computer Interaction, and Software Development, with specialization threads in Intelligence and Media.</h3>
 
 - 👨‍💻 You can check out my projects & experiences at [janhavipurkar.com](https://janhavipurkar.wixsite.com/blog)
 
