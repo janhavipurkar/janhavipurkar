@@ -2,7 +2,7 @@
 
 <p align="center">
 MS Computer Science @ Stanford <br/>
-Previously @ Georgia Tech (Highest Honors) <br/><br/>
+Previously @ Georgia Tech <br/><br/>
 I build across software, ML, and human-centered systems, 
 with interests in computer vision, HCI, and storytelling-driven tech.
 </p>
@@ -12,7 +12,6 @@ with interests in computer vision, HCI, and storytelling-driven tech.
 📫 imjanhavipurkar@gmail.com
 </p>
 
----
 
 <h3 align="left">Connect</h3>
 <p align="left">
@@ -20,8 +19,6 @@ with interests in computer vision, HCI, and storytelling-driven tech.
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 </p>
-
----
 
 <h3 align="left">Tech Stack</h3>
 
